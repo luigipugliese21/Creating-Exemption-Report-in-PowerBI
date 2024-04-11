@@ -4,7 +4,7 @@
 The Exemption Report Project was designed to identify and report instances where call data entries did not match predefined values in a lookup table within the database. The primary components of the project include a Power BI report, a Power Automate flow, and underlying SQL code that feeds the report. The project's main feature is an alert system that notifies stakeholders when certain thresholds are reached, indicating potential issues in the data mapping process.
 
 ## Process Flow
-![Process Flow Description](Exemption Process Flow.jpeg)
+![Process Flow Description](ExemptionProcessFlow.jpeg)
 
 
 ## Repository Contents
